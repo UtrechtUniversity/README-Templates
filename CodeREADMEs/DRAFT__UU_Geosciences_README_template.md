@@ -25,7 +25,16 @@ Give examples and instructions on how to use the package here.
 
 Please cite the package using the following citation:
 
-*Consider placing a .bibtex file here so that the citation can be formatted in many different citation styles with software such as Zotero.*
+> Speed, G; Kandylas, A.; Dadkan, Maisam; "UU Geosciences README Template," Markdown document. Utrecht University, Utrecht, the Netherlands, 2023. 
+
+*Consider placing a .bibtex file snippet here or a bibtex file in the repository so that the citation can be formatted in many different citation styles with software such as Zotero.* 
+
+> @Manual{speed+kandylas+dadkan,
+>    author = "Garrett {Speed}, Aristotelis {Kandylas}, and Maisam M. {Dadkan}",
+>    title = "UU Geosciences README Template",
+>    year = 2023,
+>    address = "Utrecht, the Netherlands",
+>    organization = "Utrecht Unviersity Faculty of Geosciences"}
 
 ## How to contribute
 
