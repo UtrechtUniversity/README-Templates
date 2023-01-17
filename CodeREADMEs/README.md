@@ -24,3 +24,4 @@ See how this document is formatted by going to [the raw view of the Markdown fil
 * [UU RSE Templates](https://github.com/UtrechtUniversity/rse-project-templates) - A project template from Utrecht University's Research Software Engineering team. 
 * [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A template project structure for data science projects
 * [mkrapp/cookiecutter-reproducable-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - A template project structure for science in the same style as the drivendata/cookiecutter-data-science template
+* The Talk Python to Me Podcast had an episode on how to write READMEs, change logs, and related tools on their 2022-12-22 episode. [Listen and find links to resources on their website](https://talkpython.fm/episodes/show/395/tools-for-readme.md-creation-and-maintenance)
